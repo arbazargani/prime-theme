@@ -1,0 +1,111 @@
+@font-face {
+    /* Pelak Thin */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 100;
+   
+    src:url('eot/Pelak-Thin.eot'); /* IE9 Compat Modes */
+    src:url('eot/Pelak-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('woff2/Pelak-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+    url('woff/Pelak-Thin.woff') format('woff'), /* Pretty Modern Browsers */
+    url('ttf/Pelak-Thin.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('otf/Pelak-Thin.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Light */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 200;
+   
+    src:url('eot/Pelak-light.eot');
+    src:url('eot/Pelak-light.eot') format('embedded-opentype'),
+    url('woff2/Pelak-light.woff2') format('woff2'),
+    url('woff/Pelak-light.woff') format('woff'),
+    url('ttf/Pelak-light.ttf') format('truetype'),
+    url('otf/Pelak-light.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Regular */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 400;
+   
+    src:url('eot/Pelak-Regular.eot');
+    src:url('eot/Pelak-Regular.eot') format('embedded-opentype'),
+    url('woff2/Pelak-Regular.woff2') format('woff2'),
+    url('woff/Pelak-Regular.woff') format('woff'),
+    url('ttf/Pelak-Regular.ttf') format('truetype'),
+    url('otf/Pelak-Regular.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Medium */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 500;
+   
+    src:url('eot/Pelak-Medium.eot');
+    src:url('eot/Pelak-Medium.eot') format('embedded-opentype'),
+    url('woff2/Pelak-Medium.woff2') format('woff2'),
+    url('woff/Pelak-Medium.woff') format('woff'),
+    url('ttf/Pelak-Medium.ttf') format('truetype'),
+    url('otf/Pelak-Medium.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Semi-Bold */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 600;
+   
+    src:url('eot/Pelak-SemiBold.eot');
+    src:url('eot/Pelak-SemiBold.eot') format('embedded-opentype'),
+    url('woff2/Pelak-SemiBold.woff2') format('woff2'),
+    url('woff/Pelak-SemiBold.woff') format('woff'),
+    url('ttf/Pelak-SemiBold.ttf') format('truetype'),
+    url('otf/Pelak-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Bold */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 700;
+   
+    src:url('eot/Pelak-Bold.eot');
+    src:url('eot/Pelak-Bold.eot') format('embedded-opentype'),
+    url('woff2/Pelak-Bold.woff2') format('woff2'),
+    url('woff/Pelak-Bold.woff') format('woff'),
+    url('ttf/Pelak-Bold.ttf') format('truetype'),
+    url('otf/Pelak-Bold.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Extra-Bold */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 800;
+   
+    src:url('eot/Pelak-ExtraBold.eot');
+    src:url('eot/Pelak-ExtraBold.eot') format('embedded-opentype'),
+    url('woff2/Pelak-ExtraBold.woff2') format('woff2'),
+    url('woff/Pelak-ExtraBold.woff') format('woff'),
+    url('ttf/Pelak-ExtraBold.ttf') format('truetype'),
+    url('otf/Pelak-ExtraBold.otf') format('opentype');
+}
+
+@font-face {
+    /* Pelak Black */
+    font-family: "Pelak";
+    font-style: normal;
+    font-weight: 900;
+   
+    src:url('eot/Pelak-Black.eot');
+    src:url('eot/Pelak-Black.eot') format('embedded-opentype'),
+    url('woff2/Pelak-Black.woff2') format('woff2'),
+    url('woff/Pelak-Black.woff') format('woff'),
+    url('ttf/Pelak-Black.ttf') format('truetype'),
+    url('otf/Pelak-Black.otf') format('opentype');
+}

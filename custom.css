@@ -1,0 +1,126 @@
+main a {
+    color: var(--color-black) !important;
+}
+.shop-btn * {
+    cursor: pointer;
+}
+.shop-btn img {
+    vertical-align: middle;
+}
+#wp-submit {
+    cursor: pointer;
+}
+.custom-alert-box-success {
+    padding: 15px;
+    background: #4499cb;
+    /*background: #93c0db;*/
+    border-radius: 5px;
+    color: var(--color-white);
+    font-size: 16px;
+}
+.custom-alert-box-success a {
+    color: var(--color-white) !important;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input[type=tel]{
+    border: none;
+    outline: none;
+    box-shadow: none;
+
+    width: 250px; height: 50px;
+    background-color: var(--color-white);
+    padding: 15px;
+    font-size: 14px;
+    font-weight: normal;
+    color: var(--color-black);
+    box-shadow: 0px 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+input[type=email]{
+    border: none;
+    outline: none;
+    box-shadow: none;
+
+    width: 250px; height: 50px;
+    background-color: var(--color-white);
+    padding: 15px;
+    font-size: 14px;
+    font-weight: normal;
+    color: var(--color-black);
+    box-shadow: 0px 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.invoice-btn-wrapper button {
+    cursor: pointer;
+}
+.invoice-btn-wrapper div {
+    cursor: pointer;
+}
+.order-table-child tbody tr:nth-child(1) {
+    background-color: #504f4c;
+}
+
+
+/* temp alerts */
+@media screen and (max-width: 767.98px) {
+    .alert-cont .alert-wrap{
+        padding: 10px 50px;
+    }
+}
+@media screen and (max-width: 991.98px) {
+    .alert-cont .alert-wrap{
+        padding: 10px 20px;
+    }
+}
+.alert-cont{
+    margin-bottom: 25px;
+}
+
+.alert-cont .alert-wrap{
+    background-color: #D95E5E;
+    padding: 12px 70px ;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+}
+
+
+.alert-cont .alert-wrap svg{
+    margin-left: 10px;
+    vertical-align: middle;
+    height: 26px;
+}
+
+.alert-cont .alert-wrap p{
+    color: var(--color-white);
+    font-size: 16px;
+    vertical-align: middle;
+}
+/* temp alerts */
+
+
+#mobile-nav {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    z-index: 100;
+}
+
+.search-wrapper {
+    padding: 5%;
+}
+
+.shopping-bag-pop-item-img a img{
+    max-width: 44px;
+}
+
+.shopping-bag-pop-item-title a {
+    height: auto !important;
+}
+
+.book-img.text-align-center img {
+    height: unset !important;
+}
